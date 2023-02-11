@@ -6,15 +6,16 @@
 
 // 32679 -> 6
 
-Console.Clear();
-Console.Write("Введите трехзначное число: ");
-int number = int.Parse(Console.ReadLine());
-if(number < 100)
-{
-    Console.WriteLine("Третья цифра в числе отсутствует");
-    return;
-}
 
-int number1 = number % 10;
-int number2 = number1[3];
-Console.WriteLine($"третья цифра числа - {number2}");
+Console.Clear();
+Console.Write("Введите любое число: ");
+int a = Int32.Parse(Console.ReadLine());
+if(a <= 99){
+Console.WriteLine("Число меньше 100");
+}else{
+while(a > 1000){
+a /= 10; // a = a / 10
+
+}
+Console.WriteLine(a%10);
+}
