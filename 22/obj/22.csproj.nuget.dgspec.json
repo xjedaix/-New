@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evgenijklimov/Desktop/-New/24/24.csproj": {}
+    "/Users/evgenijklimov/Desktop/-New/22/22.csproj": {}
   },
   "projects": {
-    "/Users/evgenijklimov/Desktop/-New/24/24.csproj": {
+    "/Users/evgenijklimov/Desktop/-New/22/22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evgenijklimov/Desktop/-New/24/24.csproj",
-        "projectName": "24",
-        "projectPath": "/Users/evgenijklimov/Desktop/-New/24/24.csproj",
+        "projectUniqueName": "/Users/evgenijklimov/Desktop/-New/22/22.csproj",
+        "projectName": "22",
+        "projectPath": "/Users/evgenijklimov/Desktop/-New/22/22.csproj",
         "packagesPath": "/Users/evgenijklimov/.nuget/packages/",
-        "outputPath": "/Users/evgenijklimov/Desktop/-New/24/obj/",
+        "outputPath": "/Users/evgenijklimov/Desktop/-New/22/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/evgenijklimov/.nuget/NuGet/NuGet.Config"
