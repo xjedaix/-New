@@ -17,8 +17,8 @@ if (N < 0)
     
 
 }
-int[] result = new int[m];
-for (int j = 0; i <= N; i++)
+int[] result = new int[m]; // создали массив
+for (int j = 0; i <= N; i++) // наполняем массив
 {
     result[j] = i * i;
     j++;

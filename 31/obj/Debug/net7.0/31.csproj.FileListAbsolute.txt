@@ -1,0 +1,15 @@
+/Users/evgenijklimov/Desktop/-New/31/bin/Debug/net7.0/31
+/Users/evgenijklimov/Desktop/-New/31/bin/Debug/net7.0/31.deps.json
+/Users/evgenijklimov/Desktop/-New/31/bin/Debug/net7.0/31.runtimeconfig.json
+/Users/evgenijklimov/Desktop/-New/31/bin/Debug/net7.0/31.dll
+/Users/evgenijklimov/Desktop/-New/31/bin/Debug/net7.0/31.pdb
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.csproj.AssemblyReference.cache
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.AssemblyInfoInputs.cache
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.AssemblyInfo.cs
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.csproj.CoreCompileInputs.cache
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.dll
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/refint/31.dll
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.pdb
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/31.genruntimeconfig.cache
+/Users/evgenijklimov/Desktop/-New/31/obj/Debug/net7.0/ref/31.dll

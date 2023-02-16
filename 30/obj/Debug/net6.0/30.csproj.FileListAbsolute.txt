@@ -1,5 +1,20 @@
-C:\Users\Евгений\OneDrive\Рабочий стол\-New\30\obj\Debug\net6.0\30.csproj.AssemblyReference.cache
-C:\Users\Евгений\OneDrive\Рабочий стол\-New\30\obj\Debug\net6.0\30.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Евгений\OneDrive\Рабочий стол\-New\30\obj\Debug\net6.0\30.AssemblyInfoInputs.cache
-C:\Users\Евгений\OneDrive\Рабочий стол\-New\30\obj\Debug\net6.0\30.AssemblyInfo.cs
-C:\Users\Евгений\OneDrive\Рабочий стол\-New\30\obj\Debug\net6.0\30.csproj.CoreCompileInputs.cache
+C:/Users/Евгений/OneDrive/Рабочий стол/-New/30/obj/Debug/net6.0/30.csproj.AssemblyReference.cache
+C:/Users/Евгений/OneDrive/Рабочий стол/-New/30/obj/Debug/net6.0/30.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Евгений/OneDrive/Рабочий стол/-New/30/obj/Debug/net6.0/30.AssemblyInfoInputs.cache
+C:/Users/Евгений/OneDrive/Рабочий стол/-New/30/obj/Debug/net6.0/30.AssemblyInfo.cs
+C:/Users/Евгений/OneDrive/Рабочий стол/-New/30/obj/Debug/net6.0/30.csproj.CoreCompileInputs.cache
+/Users/evgenijklimov/Desktop/-New/30/bin/Debug/net6.0/30
+/Users/evgenijklimov/Desktop/-New/30/bin/Debug/net6.0/30.deps.json
+/Users/evgenijklimov/Desktop/-New/30/bin/Debug/net6.0/30.runtimeconfig.json
+/Users/evgenijklimov/Desktop/-New/30/bin/Debug/net6.0/30.dll
+/Users/evgenijklimov/Desktop/-New/30/bin/Debug/net6.0/30.pdb
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.csproj.AssemblyReference.cache
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.AssemblyInfoInputs.cache
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.AssemblyInfo.cs
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.csproj.CoreCompileInputs.cache
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.dll
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/refint/30.dll
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.pdb
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/30.genruntimeconfig.cache
+/Users/evgenijklimov/Desktop/-New/30/obj/Debug/net6.0/ref/30.dll
