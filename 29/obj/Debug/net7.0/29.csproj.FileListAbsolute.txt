@@ -3,3 +3,13 @@
 /Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/29.AssemblyInfoInputs.cache
 /Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/29.AssemblyInfo.cs
 /Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/29.csproj.CoreCompileInputs.cache
+/Users/evgenijklimov/Desktop/-New/29/bin/Debug/net7.0/29
+/Users/evgenijklimov/Desktop/-New/29/bin/Debug/net7.0/29.deps.json
+/Users/evgenijklimov/Desktop/-New/29/bin/Debug/net7.0/29.runtimeconfig.json
+/Users/evgenijklimov/Desktop/-New/29/bin/Debug/net7.0/29.dll
+/Users/evgenijklimov/Desktop/-New/29/bin/Debug/net7.0/29.pdb
+/Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/29.dll
+/Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/refint/29.dll
+/Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/29.pdb
+/Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/29.genruntimeconfig.cache
+/Users/evgenijklimov/Desktop/-New/29/obj/Debug/net7.0/ref/29.dll
